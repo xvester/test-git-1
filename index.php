@@ -1,6 +1,6 @@
 <?php
 
-echo phpversion();
+echo "PHP Version: ".phpversion();
 
 echo '<hr>';
 
