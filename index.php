@@ -2,7 +2,7 @@
 
 echo '<hr>';
 
-echo "PHP Version: ".phpversion();
+echo "<h1>PHP Version: ".phpversion()."</h1>";
 
 echo '<hr>';
 
